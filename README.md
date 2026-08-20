@@ -85,18 +85,6 @@ Visit our official website to start playing:
 
 ---
 
-## 🗺️ Roadmap
-
-- [x] Launch Color Rush & Tap Rush
-- [x] Implementasi Leaderboard Anti-Cheat
-- [x] Launch Aetherun (RPG)
-- [x] Launch Veyndao (3D)
-- [ ] Penambahan fitur sosial (Friend list)
-- [ ] Turnamen mingguan otomatis
-- [ ] PWA (Progressive Web App) support
-
----
-
 <details>
 <summary><b>🌐 Lihat Bahasa Lainnya (View other languages)</b></summary>
 
