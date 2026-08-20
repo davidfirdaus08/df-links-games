@@ -38,7 +38,7 @@
 
 ### 🚀 Mulai Main
 
-👉 **[https://v5dflinks.my.id/](https://v5dflinks.my.id/)**
+👉 **[https://v4dflinks.my.id/](https://v4dflinks.my.id/)**
 
 ---
 
@@ -88,7 +88,7 @@
 
 ### 🚀 Start Playing
 
-👉 **[https://v5dflinks.my.id/](https://v5dflinks.my.id/)**
+👉 **[https://v4dflinks.my.id/](https://v4dflinks.my.id/)**
 
 ---
 
@@ -124,7 +124,7 @@
 
 ### 🚀 Empezar a Jugar
 
-👉 **[https://v5dflinks.my.id/](https://v5dflinks.my.id/)**
+👉 **[https://v4dflinks.my.id/](https://v4dflinks.my.id/)**
 
 ---
 
@@ -160,7 +160,7 @@
 
 ### 🚀 プレイ開始
 
-👉 **[https://v5dflinks.my.id/](https://v5dflinks.my.id/)**
+👉 **[https://v4dflinks.my.id/](https://v4dflinks.my.id/)**
 
 ---
 
@@ -196,7 +196,7 @@
 
 ### 🚀 开始游玩
 
-👉 **[https://v5dflinks.my.id/](https://v5dflinks.my.id/)**
+👉 **[https://v4dflinks.my.id/](https://v4dflinks.my.id/)**
 
 ---
 
@@ -232,7 +232,7 @@
 
 ### 🚀 플레이 시작
 
-👉 **[https://v5dflinks.my.id/](https://v5dflinks.my.id/)**
+👉 **[https://v4dflinks.my.id/](https://v4dflinks.my.id/)**
 
 ---
 
@@ -268,7 +268,7 @@
 
 ### 🚀 Начать играть
 
-👉 **[https://v5dflinks.my.id/](https://v5dflinks.my.id/)**
+👉 **[https://v4dflinks.my.id/](https://v4dflinks.my.id/)**
 
 ---
 
