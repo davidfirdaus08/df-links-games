@@ -72,6 +72,19 @@ Visit our official website to start playing:
 
 ---
 
+## 📸 Screenshots / Gameplay
+
+> *Tambahkan screenshot atau GIF gameplay di sini agar repo makin menarik!*
+
+<div align="center">
+  <img src="https://via.placeholder.com/400x225/1a1a2e/e94560?text=Color+Rush" alt="Color Rush Gameplay" width="400">
+  <img src="https://via.placeholder.com/400x225/1a1a2e/00b8a9?text=Tap+Rush" alt="Tap Rush Gameplay" width="400">
+  <br>
+  <em>Color Rush & Tap Rush Gameplay</em>
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 | Technology | Role |
@@ -82,6 +95,38 @@ Visit our official website to start playing:
 | ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) | Backend Native API |
 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) | Database + PDO |
 | ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white) | 3D Engine (Veyndao) |
+
+---
+
+## 💻 Local Development
+
+Ingin menjalankan secara lokal? Ikuti langkah berikut:
+
+```bash
+# 1. Clone repository
+git clone https://github.com/davidfirdaus08/df-links.git
+
+# 2. Masuk ke direktori
+cd df-links
+
+# 3. Setup database MySQL
+# Import file database.sql (jika ada) ke MySQL via phpMyAdmin atau CLI
+
+# 4. Jalankan via server lokal (XAMPP/Laragon/dll)
+# Pastikan folder berada di dalam direktori server (htdocs/www)
+```
+
+---
+
+## 🗺️ Roadmap
+
+- [x] Launch Color Rush & Tap Rush
+- [x] Implementasi Leaderboard Anti-Cheat
+- [x] Launch Aetherun (RPG)
+- [x] Launch Veyndao (3D)
+- [ ] Penambahan fitur sosial (Friend list)
+- [ ] Turnamen mingguan otomatis
+- [ ] PWA (Progressive Web App) support
 
 ---
 
@@ -99,7 +144,7 @@ Visit our official website to start playing:
 | Juego | Género | Jugar |
 |-------|--------|-------|
 | 🟥 **Color Rush** | Hyper-casual / Velocidad de Color | [Jugar Ahora](https://v4dflinks.my.id/ColorRush/) |
-| 💙 **Tap Rush** | Precisión de Tiempo | [Jugar Ahora](https://v4dflinks.my.id/TapRush/) |
+| 💙 **Tap Rush** | Tiempo de Precisión | [Jugar Ahora](https://v4dflinks.my.id/TapRush/) |
 | 💜 **Aetherun** | Aventura RPG Fantástica | [Jugar Ahora](https://v5dflinks.my.id/aetherun) |
 | 💛 **Veyndao** | Mundo Abierto 3D de Cultivo | [Jugar Ahora](https://v5dflinks.my.id/veyndao) |
 
