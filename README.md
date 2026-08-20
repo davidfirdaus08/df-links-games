@@ -34,7 +34,7 @@ DF Links adalah portal game web gratis yang menawarkan pengalaman bermain instan
 | 🟥 **Color Rush** | Hyper-casual | Uji kecepatan reaksi warnamu! Bangun combo setinggi mungkin. | [Main Sekarang](https://v4dflinks.my.id/ColorRush/) |
 | 💙 **Tap Rush** | Precision Timing | Tap saat indikator berada di zona hijau. Makin dekat pusat, makin besar poin! | [Main Sekarang](https://v4dflinks.my.id/TapRush/) |
 | 💜 **Aetherun** | Fantasy RPG | Petualangan RPG fantasi yang epik dan penuh tantangan. | [Main Sekarang](https://v5dflinks.my.id/aetherun) |
-| 💛 **Veyndao** | 3D Open World | Game 3D open world bertema kultivasi (cultivation) memukau. | [Main Sekarang](https://v5dflinks.my.id/veyndao) |
+| 💛 **Veyndao** | 3D Open World | Game 3D open world bertema kultivasi (cultivation) yang memukau. | [Main Sekarang](https://v5dflinks.my.id/veyndao) |
 
 ### ✨ Fitur Utama
 - 🎯 **Tanpa Registrasi** — Langsung main, langsung seru.
@@ -65,6 +65,16 @@ DF Links is a free web game portal offering instant play experiences without reg
 | 💙 **Tap Rush** | Precision Timing | Tap when the indicator is in the green zone. Closer to center = more points! | [Play Now](https://v4dflinks.my.id/TapRush/) |
 | 💜 **Aetherun** | Fantasy RPG | An epic fantasy RPG adventure full of challenges. | [Play Now](https://v5dflinks.my.id/aetherun) |
 | 💛 **Veyndao** | 3D Open World | A stunning 3D open-world cultivation game. | [Play Now](https://v5dflinks.my.id/veyndao) |
+
+### ✨ Key Features
+- 🎯 **No Registration** — Just play, instantly fun.
+- 📱 **Fully Responsive** — Play smoothly on mobile, tablet, or PC.
+- 🌍 **Multi-language** — Supports 7 international languages.
+- 🏆 **Online Leaderboard** — Compete with players worldwide.
+- 🎵 **Web Audio API** — Sound effects generated directly, no audio files needed.
+- 🎨 **Dark Mode & Dynamic Themes** — 5 attractive color theme options.
+- ⚡ **Ultra Lightweight** — Built with Vanilla JS, no heavy framework.
+- 📊 **Anti-Cheat** — Server-side validation to keep the leaderboard fair.
 
 ### 🚀 Start Playing
 Visit our official website to start playing:
