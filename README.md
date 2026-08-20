@@ -72,19 +72,6 @@ Visit our official website to start playing:
 
 ---
 
-## 📸 Screenshots / Gameplay
-
-> *Tambahkan screenshot atau GIF gameplay di sini agar repo makin menarik!*
-
-<div align="center">
-  <img src="https://via.placeholder.com/400x225/1a1a2e/e94560?text=Color+Rush" alt="Color Rush Gameplay" width="400">
-  <img src="https://via.placeholder.com/400x225/1a1a2e/00b8a9?text=Tap+Rush" alt="Tap Rush Gameplay" width="400">
-  <br>
-  <em>Color Rush & Tap Rush Gameplay</em>
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 | Technology | Role |
