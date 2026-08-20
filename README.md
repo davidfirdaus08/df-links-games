@@ -295,4 +295,3 @@ Kalau suka project ini:
 - 🔄 Share ke teman
 - 🐛 Report bug di Issues
 - 💡 Suggest fitur baru di Discussions
-```
