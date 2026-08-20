@@ -85,26 +85,6 @@ Visit our official website to start playing:
 
 ---
 
-## 💻 Local Development
-
-Ingin menjalankan secara lokal? Ikuti langkah berikut:
-
-```bash
-# 1. Clone repository
-git clone https://github.com/davidfirdaus08/df-links.git
-
-# 2. Masuk ke direktori
-cd df-links
-
-# 3. Setup database MySQL
-# Import file database.sql (jika ada) ke MySQL via phpMyAdmin atau CLI
-
-# 4. Jalankan via server lokal (XAMPP/Laragon/dll)
-# Pastikan folder berada di dalam direktori server (htdocs/www)
-```
-
----
-
 ## 🗺️ Roadmap
 
 - [x] Launch Color Rush & Tap Rush
